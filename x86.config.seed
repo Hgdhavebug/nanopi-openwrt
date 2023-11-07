@@ -42,6 +42,3 @@ CONFIG_DRIVER_11W_SUPPORT=y
 
 CONFIG_PACKAGE_luci-app-wireguard=y
 CONFIG_PACKAGE_luci-app-airplay2=y
-
-CONFIG_PACKAGE_luci-app-docker=y
-CONFIG_PACKAGE_luci-lib-docker=y
